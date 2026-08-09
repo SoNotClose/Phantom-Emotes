@@ -1,1 +1,35 @@
-{}
+{
+    "entries": [
+        {
+            "version": "1.4.3",
+            "date": "2026-08-08",
+            "title": "Few Additions",
+            "changes": [
+                "Added intro animations that play before an emote's main loop.",
+                "Added AudioAfterIntro so an emote's sound can wait until the loop starts.",
+                "Added custom IntroAudio for a separate sound during the intro.",
+                "Fixed GUI menu paging skipping the last page on some emote counts."
+            ]
+        },
+        {
+            "version": "1.4.2",
+            "date": "2026-08-06",
+            "title": "More Emotes",
+            "changes": [
+                "Added 30 More Emotes.",
+                "Fixed Rebellious using the wrong sound key.",
+                "Fixed Icons not rendering for some emotes."
+            ]
+        },
+        {
+            "version": "1.4.1",
+            "date": "2026-08-02",
+            "title": "GUI Input Mode",
+            "changes": [
+                "Added GUI list menu input mode as an alternative to the wheel.",
+                "Added setting to exclude custom emotes from the GUI menu.",
+                "Added adjustable emotes-per-page count for the GUI menu."
+            ]
+        }
+    ]
+}
