@@ -1,6 +1,17 @@
 {
     "entries": [
         {
+            "version": "1.4.6",
+            "date": "2026-08-14",
+            "title": "HUGE REWORK",
+            "changes": [
+                "Added Favoriting Emotes (B RightController)",
+                "Huge UI Overhual",
+                "Added versions (if ur not up to date the mod will be disabled, needed for security)",
+                "Rarer BarrelRoll......"
+            ]
+        },
+        {
             "version": "1.4.5",
             "date": "2026-08-14",
             "title": "Mid Update Blehh",
