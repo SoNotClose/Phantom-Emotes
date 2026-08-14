@@ -1,6 +1,29 @@
 {
     "entries": [
         {
+            "version": "1.4.5",
+            "date": "2026-08-14",
+            "title": "Mid Update Blehh",
+            "changes": [
+                "Added a few more emotes.",
+                "Improved intros so they no longer appear to others but smoothly transition.",
+                "Huge GUI overhaul.",
+                "Removed some unused code.",
+                "Removed console (we don't like that).",
+                "BarrelRoll......"
+            ]
+        },
+        {
+            "version": "1.4.4",
+            "date": "2026-08-13",
+            "title": "Traversal & UI Improvements",
+            "changes": [
+                "Improved traversal emotes.",
+                "Improved UI.",
+                "Fixed some icons not showing."
+            ]
+        },
+        {
             "version": "1.4.3",
             "date": "2026-08-08",
             "title": "Few Additions",
