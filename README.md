@@ -8,6 +8,7 @@ a private soon to be public and paid emote mod for gorilla tag with over 300+ em
 - Traversal Emotes // u can move with traversal emotes just like fortnite
 - Replay Emote Binding // bind emotes to for replay
 - Muting Emotes // to avoid automod if it annoys people
+- Favorite Emotes // u can not favorite any emote and access it easily
 - Emote Syncing // working on this feature allows you to sync emotes with a friend that has the mod
 - Meme Emotes // funny emotes unrelated to fortnite
 - 3 Types Of Interfaces // u can chose between Wheel, GUI, Window UI, was gonna add menu but thats too commonnnnn
