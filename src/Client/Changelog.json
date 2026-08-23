@@ -10,6 +10,7 @@
                 "Improved Mic Quality",
                 "Improved Full Body Emotes",
                 "Fixed some emotes breaking others",
+                "Asset bundle now gets loaded remotely (no more 655mb dll but with the cost of startup lag)",
                 "Getting ready for open access soon"
             ]
         },
