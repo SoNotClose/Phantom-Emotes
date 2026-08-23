@@ -1,6 +1,19 @@
 {
     "entries": [
         {
+            "version": "1.4.7",
+            "date": "2026-08-23",
+            "title": "Update",
+            "changes": [
+                "Updated to the latest fortnite version (LUXE 'FIT)",
+                "Attempt to fix a loop bug with audios",
+                "Improved Mic Quality",
+                "Improved Full Body Emotes",
+                "Fixed some emotes breaking others",
+                "Getting ready for open access soon"
+            ]
+        },
+        {
             "version": "1.4.6",
             "date": "2026-08-14",
             "title": "HUGE REWORK",
