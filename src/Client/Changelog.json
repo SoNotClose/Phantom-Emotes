@@ -1,6 +1,18 @@
 {
     "entries": [
         {
+            "version": "1.4.9",
+            "date": "2026-08-28",
+            "title": "Update",
+            "changes": [
+                "Updated to the latest fortnite version (More Intros)",
+                "QOL Changes",
+                "Improved startup lag",
+                "More icon emotes",
+                "Blacked out like a phantom (me phone keeps havin a tantrum)"
+            ]
+        },
+        {
             "version": "1.4.8",
             "date": "2026-08-27",
             "title": "Update",
