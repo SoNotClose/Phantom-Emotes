@@ -1,6 +1,18 @@
 {
     "entries": [
         {
+            "version": "1.5.0",
+            "date": "2026-08-30",
+            "title": "Major Update",
+            "changes": [
+                "New Wheel Sounds (exported from fortnite itself)",
+                "More QOL Changes",
+                "Redid UI",
+                "Better Mic",
+                "school starts soon low updates"
+            ]
+        },
+        {
             "version": "1.4.9",
             "date": "2026-08-28",
             "title": "Update",
