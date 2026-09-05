@@ -1,6 +1,17 @@
 {
     "entries": [
         {
+            "version": "1.5.3",
+            "date": "2026-09-4",
+            "title": "Major Update",
+            "changes": [
+                "Updated to the latest fortnite version (IT'S ME Emote)",
+                "Updated for the latest gorilla tag version",
+                "Smoother experience",
+                "ugh why does lemming have to break my things"
+            ]
+        },
+        {
             "version": "1.5.2",
             "date": "2026-08-31",
             "title": "Update",
