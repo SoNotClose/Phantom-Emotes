@@ -1,6 +1,18 @@
 {
     "entries": [
         {
+            "version": "1.5.4",
+            "date": "2026-09-15",
+            "title": "Major Update",
+            "changes": [
+                "Updated to the latest fortnite version (New Emotes)",
+                "Improved GUI",
+                "Closed all early access (went good cant wait for release)",
+                "Removed french logging (sucks for other devs)",
+                "reve un peu"
+            ]
+        },
+        {
             "version": "1.5.3",
             "date": "2026-09-4",
             "title": "Major Update",
