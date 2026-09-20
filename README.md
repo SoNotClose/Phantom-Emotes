@@ -11,7 +11,6 @@ a private soon to be public and paid emote mod for gorilla tag with over 350+ em
 - Favorite Emotes // u can not favorite any emote and access it easily
 - Emote Syncing // working on this feature allows you to sync emotes with a friend that has the mod
 - Meme Emotes // funny emotes unrelated to fortnite
-- 3 Types Of Interfaces // u can chose between Wheel, GUI, Window UI, was gonna add menu but thats too commonnnnn
 - And More!!
 
 ---
