@@ -1,6 +1,17 @@
 {
     "entries": [
         {
+            "version": "1.5.7",
+            "date": "2026-09-24",
+            "title": "Update",
+            "changes": [
+                "Added more intros",
+                "Improved bundle networking (10 min -> 2 min)",
+                "Wheel Animations",
+                "idek anymore"
+            ]
+        },
+        {
             "version": "1.5.6",
             "date": "2026-09-20",
             "title": "Sad Major Update",
