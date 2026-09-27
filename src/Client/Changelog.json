@@ -1,6 +1,26 @@
 {
     "entries": [
         {
+            "version": "1.5.8",
+            "date": "2026-09-27",
+            "title": "Insane Update",
+            "changes": [
+                "Reworked the entire mod (UI, Wheel, GUI, Emoting",
+                "Updated to the latest gorilla tag version",
+                "Updated emote sounds (some emotes now have more than one audios)",
+                "Added back the GUI (Reworked)",
+                "Added more intros",
+                "Added emote smoothing (built in)",
+                "Improved bundle networking even more (after the first install u dont need to install again unless the mod updates)",
+                "Fixed a huge crash with emoting (mb i cant code for shit)",
+                "Fixed favoriting emotes for both GUI and Wheel",
+                "Fixed Wheel Animations",
+                "Addressed an issue with synced emoting (should be fixed by v1.6)",
+                "Addressed a possible security problem with the mod (should be fixed by v1.6)",
+                "bleh"
+            ]
+        },
+        {
             "version": "1.5.7",
             "date": "2026-09-24",
             "title": "Update",
