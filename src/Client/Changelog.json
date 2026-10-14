@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "version": "1.6.0",
+            "date": "2026-10-13",
+            "title": "Version 1.6!",
+            "changes": [
+                "Updated to the latest fortnite version",
+                "Updated to the latest gorilla tag version",
+                "removed emote syncing (vulnerability found fixing soon)",
+                "added credits tab (UI)",
+                "improved favoriting system",
+                "improved emoting tab (UI)",
+                "added vc bypass",
+                "the vc bypass works when not emoting aswell so u can even blast anything and not get automod banned",
+                "i forgot the rest i added"
+            ]
+        },
+        {
             "version": "1.5.9",
             "date": "2026-10-13",
             "title": "Insane Update",
