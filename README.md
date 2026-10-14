@@ -12,6 +12,7 @@ a private soon to be public and paid emote mod for gorilla tag with over 250+ em
 - Emote Syncing // working on this feature allows you to sync emotes with a friend that has the mod
 - Meme Emotes // funny emotes unrelated to fortnite
 - NO CONSOLE // this mod does not include console so dont worry about being pulled from rooms
+- VC BYPASSER // you cant get automoded or banned from automod (SS MIC)
 - And More!!
 
 ---
