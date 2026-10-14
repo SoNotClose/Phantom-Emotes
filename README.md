@@ -1,5 +1,5 @@
 # Phantom-Emotes
-a private soon to be public and paid emote mod for gorilla tag with over 350+ emotes
+a private soon to be public and paid emote mod for gorilla tag with over 250+ emotes
 
 ---
 
