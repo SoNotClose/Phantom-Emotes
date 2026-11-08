@@ -1,6 +1,17 @@
 {
     "entries": [
         {
+            "version": "1.6.1",
+            "date": "2026-11-8",
+            "title": "Update",
+            "changes": [
+                "Updated to the latest fortnite version",
+                "Updated to the latest gorilla tag version",
+                "improved vc bypass",
+                "big update soon"
+            ]
+        },
+        {
             "version": "1.6.0",
             "date": "2026-10-13",
             "title": "Version 1.6!",
