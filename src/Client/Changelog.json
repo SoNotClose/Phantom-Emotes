@@ -1,6 +1,16 @@
 {
     "entries": [
         {
+            "version": "1.6.2",
+            "date": "2026-11-9",
+            "title": "Mid Update",
+            "changes": [
+                "Added newest fortnite wheel (fully works)",
+                "Improved ui design (took 1 day just to make dropdowns better)",
+                "biggg update soon"
+            ]
+        },
+        {
             "version": "1.6.1",
             "date": "2026-11-8",
             "title": "Update",
