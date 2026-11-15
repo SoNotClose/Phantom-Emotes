@@ -1,6 +1,20 @@
 {
     "entries": [
         {
+            "version": "1.6.3",
+            "date": "2026-11-15",
+            "title": "Major Update",
+            "changes": [
+                "Updated to the latest fortnite version",
+                "Updated to the latest gorilla tag version",
+                "Fixed multiple bugs with new wheel",
+                "Added a discord invite to UI",
+                "Added new sounds to the new wheel",
+                "Added Phantom-Emotes to the secure loader",
+                "self proclaimed best emote mod"
+            ]
+        },
+        {
             "version": "1.6.2",
             "date": "2026-11-9",
             "title": "Mid Update",
