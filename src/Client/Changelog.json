@@ -1,6 +1,15 @@
 {
     "entries": [
         {
+            "version": "1.6.4",
+            "date": "2026-11-21",
+            "title": "Update",
+            "changes": [
+                "Updated to the latest fortnite version",
+                "self proclaimed best emote mod"
+            ]
+        },
+        {
             "version": "1.6.3",
             "date": "2026-11-15",
             "title": "Major Update",
